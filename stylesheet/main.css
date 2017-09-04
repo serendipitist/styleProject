@@ -1,0 +1,9 @@
+h1 {
+  padding: 6px 10px;
+  color:  #49801b;
+  border: 10px solid hsla(0,0%,100%,0.5);
+}
+
+.page-style {
+ background-color: rgba(0, 0, 2, 0.3)
+}
